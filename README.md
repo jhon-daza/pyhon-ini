@@ -1,0 +1,2 @@
+# pyhon-ini
+iniciando python
