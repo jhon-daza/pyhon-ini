@@ -1,0 +1,13 @@
+## mi proyecto python
+
+message=("hola mundo")
+message2=(" les presento mi primer proyecto")
+
+print(message + message2)
+
+sum1=(12)
+sum2=(5)
+resul=(sum1+sum2)
+
+print("al sumar 12 + 5 me da como resultado " )  
+print(resul)
