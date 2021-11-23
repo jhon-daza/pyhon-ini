@@ -1,0 +1,13 @@
+import math
+
+## VERIFICAR SI EL NUMERO ES PAR O IMPAR
+
+print ("ingrese el numero a evaluar")
+num = float(input ())
+
+if num % 2 == 0:
+    print ("el numero es par ")
+
+else:
+    print ("el numero es impar")
+
