@@ -1,0 +1,11 @@
+import sys
+import math
+
+## CALCULAR AREA DE UN CIRCULO
+
+print ("ingrese el valor del radio en cm")
+radio= int(input ())
+pi= math.pi
+print (pi)
+area= radio*radio*pi
+print ("el area de la circunferencia es", area, "cm")
